@@ -4,4 +4,5 @@ This repo contain the material to teach the participant on `numpy`, `pandas`, `s
 # Setup
 - Make sure your laptop had installed [Python](https://www.python.org/downloads/).
 - For MacOS and Linux user, theorically it should had installed by default. Open `terminal` and type `python3`, if terminal is launching the `repl` then you do not need to install `Python`.
-- Then run `pip3 install -r requirements.txt` via the `terminal` or `command prmpt`
+- Then run `pip3 install -r requirements.txt` via the `terminal` or `command prompt`
+- Install the text editor such as Visual Studio Code, Sublime or Atom, so you can edit the code.
